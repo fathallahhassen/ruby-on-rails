@@ -1,7 +1,7 @@
-# 🧠 Ruby on Rails Project: A Comprehensive Overview
+# Ruby on Rails Project: A Comprehensive Overview
 This project is a Ruby on Rails application that provides a robust framework for managing user profiles, todo lists, and todo items. It is designed to demonstrate the core features of a Rails application, including database interactions, routing, and model associations. The project aims to provide a solid foundation for developers to build upon and explore the capabilities of the Rails framework.
 
-## 🚀 Features
+## Features
 - User profile management: create, read, update, and delete (CRUD) user profiles
 - Todo list management: create, read, update, and delete (CRUD) todo lists
 - Todo item management: create, read, update, and delete (CRUD) todo items within todo lists
@@ -9,7 +9,7 @@ This project is a Ruby on Rails application that provides a robust framework for
 - Model associations for linking users, todo lists, and todo items
 - Database interactions using Active Record
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Ruby on Rails framework
 - Active Record for database interactions
 - YAML for configuration files (e.g., database connections, secrets)
@@ -17,7 +17,7 @@ This project is a Ruby on Rails application that provides a robust framework for
 - Rails' built-in helper modules for view and controller logic
 - Git for version control
 
-## 📦 Installation
+## Installation
 To get started with this project, follow these steps:
 1. Clone the repository using Git: `git clone https://github.com/your-username/your-repo-name.git`
 2. Navigate to the project directory: `cd your-repo-name`
@@ -26,12 +26,12 @@ To get started with this project, follow these steps:
 5. Run the database migrations: `rails db:migrate`
 6. Start the Rails server: `rails s`
 
-## 💻 Usage
+## Usage
 1. Access the application in your web browser: `http://localhost:3000`
 2. Explore the user profile management features
 3. Create and manage todo lists and todo items
 
-## 📂 Project Structure
+## Project Structure
 ```markdown
 .
 ├── app
@@ -68,17 +68,3 @@ To get started with this project, follow these steps:
 ├── README.md
 └── ...
 ```
-
-## 📸 Screenshots
-
-## 🤝 Contributing
-Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
-
-## 📝 License
-This project is licensed under the MIT License.
-
-## 📬 Contact
-For questions or feedback, please contact us at [your-email@example.com](mailto:your-email@example.com).
-
-## 💖 Thanks Message
-Thank you for exploring this Ruby on Rails project! This is written by [readme.ai](https://readme-generator-phi.vercel.app/)
